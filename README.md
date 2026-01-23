@@ -3,6 +3,8 @@
 
 A concept for a new music game that combines stepping gameplay and shuffle dance.
 
+![](images/demo.gif)
+
 ## [Website](https://stakiran.github.io/dds/)
 
 ## Github
